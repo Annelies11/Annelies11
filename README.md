@@ -1,8 +1,8 @@
 ## Hey 👋, This is Aris Mahmudi
 
 <p align='left'>I'm currently enhancing my skill</p>
-<h2> Aris Mahmudi </h2>
-<p align='center'>Some of my Github Stats</p>
+<h2 text-align='center'> Some of my Github Stats </h2>
+
 <p align=left> <img src=https://komarev.com/ghpvc/?username=Annelies11 alt=Annelies11 /> </p>
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=Annelies11&show_icons=true&include_all_commits=true)](https://github.com/Annelies11/github-readme-stats)
