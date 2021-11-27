@@ -1,7 +1,7 @@
 ## Hey 👋, This is Aris Mahmudi
 
-<p align='left'>I'm currently enhancing my skill</p>
-<h2 text-align='center'> Some of my Github Stats </h2>
+<h2 align='left'>I'm currently enhancing my skill</h2>
+<h3 align='center'> Some of my Github Stats </h3>
 
 <p align=left> <img src=https://komarev.com/ghpvc/?username=Annelies11 alt=Annelies11 /> </p>
 
