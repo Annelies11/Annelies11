@@ -1,6 +1,7 @@
 ## Hey 👋, This is Aris Mahmudi
 
-<p align='left'>I'm currently enhance my skill</p>
+<p align='left'>I'm currently enhancing my skill</p>
+<h2> Aris Mahmudi </h2>
 <p align='center'>Some of my Github Stats</p>
 <p align=left> <img src=https://komarev.com/ghpvc/?username=Annelies11 alt=Annelies11 /> </p>
 
